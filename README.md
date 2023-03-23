@@ -1,2 +1,6 @@
-点击右边链接可看到完整baseline☞[![kaggle临床患者病历评分 ]](https://mp.weixin.qq.com/s/fSXPgPdkcPw8g_qmdol3Vg)
+**kaggle多目标优化的跟踪**baseline☞(https://github.com/yald3915/DIGIX2021Track-Based-on-Multi-objective-Optimization)
+
+**kaggle字幕识别竞赛指导**baseline☞(https://github.com/yald3915/ICPR--SubtitleRecognitionCompetitionGuidanceClassMultimodal)
+
+**kaggle风险事件标签识别**baseline☞(https://github.com/yald3915/ICPR--SubtitleRecognitionCompetitionGuidanceClassMultimodal)
 
