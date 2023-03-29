@@ -53,3 +53,17 @@
 **全球小麦检测**baseline☞(https://github.com/yald3915/kaggle-Global-Wheat-Detection)
 
 **kaggle-NFL**baseline☞(https://github.com/yald3915/kaggle-NFL-baseline)
+
+**天池-nlp-医学分类**baseline☞(https://github.com/yald3915/Tianchi-NLP-Medical-Classification)
+
+**天池-nlp-新闻分类**baseline☞(https://github.com/yald3915/Tianchi-NLP-News-classification)
+
+**交子杯-数据科学时间序列分类**baseline☞(https://github.com/yald3915/Jiaozi-Cup-Data-Science-Time-Series-Finance)
+
+**DIGIX2021基于多目标优化的跟踪**baseline☞(https://github.com/yald3915/DIGIX2021Track-Based-on-Multi-objective-Optimization)
+
+**大观杯-nlp**baseline☞(https://github.com/yald3915/Daguan-Cup-NLP)
+
+**KDD-天池-推荐系统**baseline☞(https://github.com/yald3915/KDD-Debiasing)
+
+**kaggle-数据科学M5时序**baseline☞(https://github.com/yald3915/M5-Forecasting-AccuracyEstimate-the-unit-sales-of-Walmart)
