@@ -18,7 +18,7 @@
 
 **产品配对竞赛指导班**baseline☞(https://github.com/yald3915/Product-Matching-Contest-Guidance-Class)
 
-**读评大赛**baseline☞(https://github.com/yald3915/toxicommentrecognitioncontest)
+**毒评大赛**baseline☞(https://github.com/yald3915/toxicommentrecognitioncontest)
 
 **美国专利短语到短语匹配**baseline☞(https://github.com/yald3915/kaggle-nlp-U.S.-Patent-Phrase-to-Phrase-Matching)
 
