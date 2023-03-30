@@ -22,8 +22,6 @@
 
 **美国专利短语到短语匹配**baseline☞(https://github.com/yald3915/kaggle-nlp-U.S.-Patent-Phrase-to-Phrase-Matching)
 
-**读评大赛**baseline☞(https://github.com/yald3915/toxicommentrecognitioncontest)
-
 **分子翻译**baseline☞(https://github.com/yald3915/kaggle-cv-Molecular-Translation)
 
 **稳定扩散**baseline☞(https://github.com/yald3915/kaggle-NLP-Stable-Diffusion---Image-to-Prompts)
