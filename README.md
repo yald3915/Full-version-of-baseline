@@ -63,3 +63,5 @@
 **KDD-天池-推荐系统**baseline☞(https://github.com/yald3915/KDD-Debiasing)
 
 **kaggle-数据科学M5时序**baseline☞(https://github.com/yald3915/M5-Forecasting-AccuracyEstimate-the-unit-sales-of-Walmart)
+
+**kaggle-孤立手语识别**baseline☞(https://github.com/yald3915/Google---Isolated-Sign-Language-Recognition)
