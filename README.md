@@ -42,8 +42,6 @@
 
 **帮助保护大堡樵**baseline☞(https://github.com/yald3915/Help-Protect-the-Great-Barrier-Reef)
 
-**华为数字芯片计算机视觉竞赛**baseline☞(https://github.com/yald3915/-HUAWEI-DIGIX-Computer-Vision-Competition)
-
 **DataFountain-NLP**baseline☞(https://github.com/yald3915/DataFountain-NLP)
 
 **ccf数据挖掘**baseline☞(https://github.com/yald3915/CCF-data-mining)
