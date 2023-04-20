@@ -38,7 +38,7 @@
 
 **个人贷款违约**baseline☞(https://github.com/yald3915/CCF---Structured-Data-Mining---Personal-Loan-Default)
 
-**泡瓜比赛**baseline☞(https://github.com/yald3915/-Pawpularity-Contest)
+**泡 瓜比赛**baseline☞(https://github.com/yald3915/-Pawpularity-Contest)
 
 **帮助保护大堡樵**baseline☞(https://github.com/yald3915/Help-Protect-the-Great-Barrier-Reef)
 
@@ -63,3 +63,9 @@
 **KDD-天池-推荐系统**baseline☞(https://github.com/yald3915/KDD-Debiasing)
 
 **kaggle-数据科学M5时序**baseline☞(https://github.com/yald3915/M5-Forecasting-AccuracyEstimate-the-unit-sales-of-Walmart)
+
+**kaggle-商品合格率检测**baseline☞(https://github.com/yald3915/kaggle-Commodityqualificationratedetection-playround)
+
+**kaggle-美国运通公司违约检测**baseline☞(https://github.com/yald3915/kaggle--Default-Prediction-Data-contest)
+
+
