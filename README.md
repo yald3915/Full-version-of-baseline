@@ -34,17 +34,15 @@
 
 **个人贷款违约**baseline☞(https://github.com/yald3915/CCF---Structured-Data-Mining---Personal-Loan-Default)
 
-**泡瓜比赛**baseline☞(https://github.com/yald3915/-Pawpularity-Contest)
+**宠物预测大赛**baseline☞(https://github.com/yald3915/-Pawpularity-Contest)
 
 **帮助保护大堡樵**baseline☞(https://github.com/yald3915/Help-Protect-the-Great-Barrier-Reef)
 
-**DataFountain-NLP**baseline☞(https://github.com/yald3915/DataFountain-NLP)
-
-**ccf数据挖掘**baseline☞(https://github.com/yald3915/CCF-data-mining)
+**疫情期间网民情绪识别**☞(https://github.com/yald3915/DataFountain-NLP)
 
 **全球小麦检测**baseline☞(https://github.com/yald3915/kaggle-Global-Wheat-Detection)
 
-**kaggle-NFL**baseline☞(https://github.com/yald3915/kaggle-NFL-baseline)
+**头盔跟踪大赛**baseline☞(https://github.com/yald3915/kaggle-NFL-baseline)
 
 **天池-nlp-医学分类**baseline☞(https://github.com/yald3915/Tianchi-NLP-Medical-Classification)
 
@@ -92,8 +90,4 @@
 
 **学生表现大赛**baseline☞(https://github.com/yald3915/kaggle-Predict-Student-Performa--ML-NLP)
 
-
-
-
-
-
+**稳定扩散-图像到提示**baseline☞(https://github.com/yald3915/kaggle-Predict-Student-Performa--ML-NLP)
