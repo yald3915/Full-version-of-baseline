@@ -74,6 +74,14 @@
 
 **德甲足球事件检测**baseline☞(https://github.com/yald3915/kaggle---BundesligaSoccereventdetection-CV)
 
+**小样本数据分类**baseline☞(https://github.com/yald3915/CCF-Small-sample-data-classification-task--nlp)
+
+**英语语言学习**baseline☞(https://github.com/yald3915/kaggle--EnglishLanguageLearning-nlp)
+
+**酶稳定性预测**baseline☞(https://github.com/yald3915/kaggle--EnzymeStabilityPrediction-ML)
+
+**kaggle-多目标推荐系统**baseline☞(https://github.com/yald3915/kaggle-Multi-Objective-Referral-system)
+
 
 
 
