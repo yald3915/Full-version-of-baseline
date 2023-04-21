@@ -58,7 +58,7 @@
 
 **DIGIX2021基于多目标优化的跟踪**baseline☞(https://github.com/yald3915/DIGIX2021Track-Based-on-Multi-objective-Optimization)
 
-**大观杯-nlp**baseline☞(https://github.com/yald3915/Daguan-Cup-NLP)
+**风险事件标签识别-nlp**baseline☞(https://github.com/yald3915/Daguan-Cup-NLP)
 
 **KDD-天池-推荐系统**baseline☞(https://github.com/yald3915/KDD-Debiasing)
 
@@ -68,4 +68,5 @@
 
 **kaggle-美国运通公司违约检测**baseline☞(https://github.com/yald3915/kaggle--Default-Prediction-Data-contest)
 
+**kaggle-深享杯-数据挖掘**baseline☞(https://github.com/yald3915/kaggle-deepshare-data-mining)
 
