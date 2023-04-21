@@ -2,8 +2,6 @@
 
 **字幕识别竞赛指导**baseline☞(https://github.com/yald3915/ICPR--SubtitleRecognitionCompetitionGuidanceClassMultimodal)
 
-**风险事件标签识别**baseline☞(https://github.com/yald3915/RiskEvent-Label-Recognition)
-
 **用户留存预测挑战赛**baseline☞(https://github.com/yald3915/aiqiyiUser-Retention-Prediction-Challenge)
 
 **单细胞变化预测竞赛**baseline☞(https://github.com/yald3915/Kaggle---Medical-Data-Mining---Single-Cell-Change-Prediction-Competition)
@@ -69,4 +67,13 @@
 **kaggle-美国运通公司违约检测**baseline☞(https://github.com/yald3915/kaggle--Default-Prediction-Data-contest)
 
 **kaggle-深享杯-数据挖掘**baseline☞(https://github.com/yald3915/kaggle-deepshare-data-mining)
+
+**kaggle-论文指导竞赛**baseline☞(https://github.com/yald3915/kaggle-ThesisMentoringCompetition-NLP)
+
+**kaggle-模型混合-ml**baseline☞(https://github.com/yald3915/kaggle--Model-blending--ML)
+
+**德甲足球事件检测**baseline☞(https://github.com/yald3915/kaggle---BundesligaSoccereventdetection-CV)
+
+
+
 
