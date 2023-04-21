@@ -22,8 +22,6 @@
 
 **分子翻译**baseline☞(https://github.com/yald3915/kaggle-cv-Molecular-Translation)
 
-**稳定扩散**baseline☞(https://github.com/yald3915/kaggle-NLP-Stable-Diffusion---Image-to-Prompts)
-
 **木薯叶病分类**baseline☞https://github.com/yald3915/kaggle-cv-Cassava-Leaf-Disease-Classification)
 
 **肾脏入侵**baseline☞(https://github.com/yald3915/HuBMAP---Invasion-of-the-kidneys)
@@ -36,7 +34,7 @@
 
 **个人贷款违约**baseline☞(https://github.com/yald3915/CCF---Structured-Data-Mining---Personal-Loan-Default)
 
-**泡 瓜比赛**baseline☞(https://github.com/yald3915/-Pawpularity-Contest)
+**泡瓜比赛**baseline☞(https://github.com/yald3915/-Pawpularity-Contest)
 
 **帮助保护大堡樵**baseline☞(https://github.com/yald3915/Help-Protect-the-Great-Barrier-Reef)
 
@@ -81,6 +79,20 @@
 **酶稳定性预测**baseline☞(https://github.com/yald3915/kaggle--EnzymeStabilityPrediction-ML)
 
 **kaggle-多目标推荐系统**baseline☞(https://github.com/yald3915/kaggle-Multi-Objective-Referral-system)
+
+**玩家接触检测**baseline☞(https://github.com/yald3915/kaggle-PlayerContact-Detection-CV)
+
+**内容检索大赛**baseline☞(https://github.com/yald3915/kaggle-Curriculum-Recommendations-NLP)
+
+**微型企业密度大赛**baseline☞(https://github.com/yald3915/kaggle-MicrobusinessDensity-Time-seriesforecasting)
+
+**kaggle-深享杯2-数据挖掘**baseline☞(https://github.com/yald3915/kaggle-deepshare-playground2--data-mining)
+
+**文本篡改分类与检测**baseline☞(https://github.com/yald3915/tianchi-ManipulationClassification-CV)
+
+**学生表现大赛**baseline☞(https://github.com/yald3915/kaggle-Predict-Student-Performa--ML-NLP)
+
+
 
 
 
