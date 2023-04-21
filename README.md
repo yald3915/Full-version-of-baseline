@@ -58,7 +58,7 @@
 
 **KDD-天池-推荐系统**baseline☞(https://github.com/yald3915/KDD-Debiasing)
 
-**kaggle-数据科学M5时序**baseline☞(https://github.com/yald3915/M5-Forecasting-AccuracyEstimate-the-unit-sales-of-Walmart)
+**kaggle-准确预测沃尔玛销售额m5**baseline☞(https://github.com/yald3915/M5-Forecasting-AccuracyEstimate-the-unit-sales-of-Walmart)
 
 **kaggle-商品合格率检测**baseline☞(https://github.com/yald3915/kaggle-Commodityqualificationratedetection-playround)
 
